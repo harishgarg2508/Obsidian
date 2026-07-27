@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "0bc3c834878d3a07",
+    "type": "split",
+    "children": [
+      {
+        "id": "ecc11ac4cb6bce89",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e20e6fd57ac476e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pyhton/Iterable and iterator.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Iterable and iterator"
+            }
+          },
+          {
+            "id": "07c93a11e87d1837",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics/squares.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "squares"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e9d9d87ef1dc37d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9ab9ceb1ac74b9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "961d47f5b4b6507f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "79009c9fc85db2ef",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "68627393dd663efe",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "787d1492154fd7dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f4353a75c14ca5c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ff0bf9a2952d477",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "2d9b3cb7663f77f7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "5039668f53608326",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9a8dfd94a0223075",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "408d4f7687578df4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "remotely-save:Remotely Save": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "07c93a11e87d1837",
+  "lastOpenFiles": [
+    "Pasted image 20260727103620.png",
+    "Untitled.md",
+    "Mathematics/squares.md",
+    "Pyhton/Iterable and iterator.md",
+    "Mathematics",
+    "Pasted image 20260727100424.png",
+    "Pasted image 20260727100013.png",
+    "Pyhton",
+    "Data Engineering/jfhhg.md",
+    "Data Engineering/Untitled.md",
+    "Welcome.md",
+    "Training",
+    "Data Engineering"
+  ]
+}
