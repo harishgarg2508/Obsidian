@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Engineering/Untitled.md",
+                "file": "Mathematics/Perfect squares pattern.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Perfect squares pattern"
             }
           }
         ],
@@ -199,6 +199,8 @@
   },
   "active": "07c93a11e87d1837",
   "lastOpenFiles": [
+    "Mathematics/Pasted image 20260727132545.png",
+    "Data Engineering/Untitled.md",
     "Data Engineering/jfhhg.md",
     "Pasted image 20260727100013.png",
     "Mathematics/Perfect squares pattern.md",
@@ -210,7 +212,6 @@
     "Mathematics",
     "Pasted image 20260727100424.png",
     "Pyhton",
-    "Data Engineering/Untitled.md",
     "Welcome.md",
     "Training",
     "Data Engineering"
